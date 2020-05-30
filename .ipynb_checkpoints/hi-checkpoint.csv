@@ -1,0 +1,2117 @@
+0,1,2,3,4,5
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=tYL4XeVcj4A"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition"" loaded="""" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" src=""https://i.ytimg.com/vi/tYL4XeVcj4A/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBHJnjbztdfRWtDvdnTrQX7enakSQ"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""8분 53초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      8:53
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""오만상사 | 갤럭시핏e 관짝행? 초특급 갓성비 샤오미 미밴드4 언빡싱! 29000원이면 매우 훌륭합니다. 게시자: ITSub잇섭 10개월 전 8분 53초 조회수 872,322회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=tYL4XeVcj4A"" id=""video-title"" title=""오만상사 | 갤럭시핏e 관짝행? 초특급 갓성비 샤오미 미밴드4 언빡싱! 29000원이면 매우 훌륭합니다."">
+<yt-formatted-string aria-label=""오만상사 | 갤럭시핏e 관짝행? 초특급 갓성비 샤오미 미밴드4 언빡싱! 29000원이면 매우 훌륭합니다. 게시자: ITSub잇섭 10개월 전 8분 53초 조회수 872,322회"" class=""style-scope ytd-video-renderer"">오만상사 | 갤럭시핏e 관짝행? 초특급 갓성비 샤오미 미밴드4 언빡싱! 29000원이면 매우 훌륭합니다.</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCdUcjkyZtf-1WJyPPiETF1g"" spellcheck=""false"">ITSub잇섭</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        ITSub잇섭
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 87만회</span>
+<span class=""style-scope ytd-video-meta-block"">10개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCdUcjkyZtf-1WJyPPiETF1g"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCdUcjkyZtf-1WJyPPiETF1g"" spellcheck=""false"">ITSub잇섭</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        ITSub잇섭
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">웨어러블 디바이스에서는 1세대부터 샤오미 미밴드의 가성비가 어마어마했지만, 이번 4세대는 컬러 디스플레이를 탑재하고도 어마어마 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=Ys4EoiGqiCY"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition"" loaded="""" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" src=""https://i.ytimg.com/vi/Ys4EoiGqiCY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAvWx99eyJ2sNAnRFkO_CHpwmjUTw"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""8분 6초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      8:06
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""아직도 안 사셨어요? 샤오미 미밴드4 스마트워치+트래커 언박싱 리뷰 가성비 넘치는 스마트 밴드 커플템으로도 추천! 아이폰/안드로이드 완벽 호환 게시자: 임지 IMJI 7개월 전 8분 6초 조회수 251,298회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=Ys4EoiGqiCY"" id=""video-title"" title=""아직도 안 사셨어요? 샤오미 미밴드4 스마트워치+트래커 언박싱 리뷰 가성비 넘치는 스마트 밴드 커플템으로도 추천! 아이폰/안드로이드 완벽 호환"">
+<yt-formatted-string aria-label=""아직도 안 사셨어요? 샤오미 미밴드4 스마트워치+트래커 언박싱 리뷰 가성비 넘치는 스마트 밴드 커플템으로도 추천! 아이폰/안드로이드 완벽 호환 게시자: 임지 IMJI 7개월 전 8분 6초 조회수 251,298회"" class=""style-scope ytd-video-renderer"">아직도 안 사셨어요? 샤오미 미밴드4 스마트워치+트래커 언박싱 리뷰 가성비 넘치는 스마트 밴드 커플템으로도 추천! 아이폰/안드로이드 완벽 호환</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/IMJIWOON"" spellcheck=""false"">임지 IMJI</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        임지 IMJI
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 25만회</span>
+<span class=""style-scope ytd-video-meta-block"">7개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/user/IMJIWOON"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/IMJIWOON"" spellcheck=""false"">임지 IMJI</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        임지 IMJI
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">애플워치, 갤럭시워치의 다양한 기능도 좋지만 역시나 핵심기능은 스마트폰과 연동하여 알림을 받아보는 거라고 생각합니다. 성능이 좋 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=AJY_g0uefrk"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition"" loaded="""" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" src=""https://i.ytimg.com/vi/AJY_g0uefrk/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLC5i3Uv3wIjbQvAc27zckdp3MoF7w"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""10분 48초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      10:48
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""미밴드 게섯거라?? 갤럭시 핏 &amp; 핏e 개봉기 [4K] 게시자: UNDERkg 11개월 전 10분 48초 조회수 231,422회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=AJY_g0uefrk"" id=""video-title"" title=""미밴드 게섯거라?? 갤럭시 핏 &amp; 핏e 개봉기 [4K]"">
+<yt-formatted-string aria-label=""미밴드 게섯거라?? 갤럭시 핏 &amp; 핏e 개봉기 [4K] 게시자: UNDERkg 11개월 전 10분 48초 조회수 231,422회"" class=""style-scope ytd-video-renderer"">미밴드 게섯거라?? 갤럭시 핏 &amp; 핏e 개봉기 [4K]</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/UNDERkgSHOW"" spellcheck=""false"">UNDERkg</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        UNDERkg
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 23만회</span>
+<span class=""style-scope ytd-video-meta-block"">11개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/user/UNDERkgSHOW"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/UNDERkgSHOW"" spellcheck=""false"">UNDERkg</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        UNDERkg
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text""><span class=""style-scope yt-formatted-string"" dir=""auto"">삼성이 출시한 새 </span><span class=""bold style-scope yt-formatted-string"" dir=""auto"">스마트밴드</span><span class=""style-scope yt-formatted-string"" dir=""auto""> 2종인데, 핏은 온갖 운동 측정이 다 되고 화면도 컬러인게 118800원. 핏e는 운동 측정이 훨씬 적고 흑백 ...</span></yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" id=""badges""><!--css-build:shady-->
+<div class=""badge badge-style-type-simple style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer"" disable-upgrade="""" hidden="""">
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer"">4K</span>
+</div>
+<div class=""badge badge-style-type-simple style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer"" disable-upgrade="""" hidden="""">
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer"">자막</span>
+</div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=yjbp2zm8ONc"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""8분 4초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      8:04
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""삼성 갤럭시 핏 리뷰: 내가 찾던 그 밴드 [4K] 게시자: UNDERkg 10개월 전 8분 4초 조회수 206,533회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=yjbp2zm8ONc"" id=""video-title"" title=""삼성 갤럭시 핏 리뷰: 내가 찾던 그 밴드 [4K]"">
+<yt-formatted-string aria-label=""삼성 갤럭시 핏 리뷰: 내가 찾던 그 밴드 [4K] 게시자: UNDERkg 10개월 전 8분 4초 조회수 206,533회"" class=""style-scope ytd-video-renderer"">삼성 갤럭시 핏 리뷰: 내가 찾던 그 밴드 [4K]</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/UNDERkgSHOW"" spellcheck=""false"">UNDERkg</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        UNDERkg
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 20만회</span>
+<span class=""style-scope ytd-video-meta-block"">10개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/user/UNDERkgSHOW"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/UNDERkgSHOW"" spellcheck=""false"">UNDERkg</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        UNDERkg
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">풀버전 리뷰는 http://bit.ly/2LrX3aO - 전반적으로, 118000원에 이 정도면 아주 만족스러워요. GPS, 추가 앱, 추가 워치페이스 같은 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" id=""badges""><!--css-build:shady-->
+<div class=""badge badge-style-type-simple style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer"" disable-upgrade="""" hidden="""">
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer"">4K</span>
+</div>
+<div class=""badge badge-style-type-simple style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer"" disable-upgrade="""" hidden="""">
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer"">자막</span>
+</div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=PbYG42i0_L4"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""7분 31초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      7:31
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""샤오미 미 밴드 4 리뷰: 이 집은 덤이 많네 [4K] 게시자: UNDERkg 7개월 전 7분 31초 조회수 197,935회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=PbYG42i0_L4"" id=""video-title"" title=""샤오미 미 밴드 4 리뷰: 이 집은 덤이 많네 [4K]"">
+<yt-formatted-string aria-label=""샤오미 미 밴드 4 리뷰: 이 집은 덤이 많네 [4K] 게시자: UNDERkg 7개월 전 7분 31초 조회수 197,935회"" class=""style-scope ytd-video-renderer"">샤오미 미 밴드 4 리뷰: 이 집은 덤이 많네 [4K]</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/UNDERkgSHOW"" spellcheck=""false"">UNDERkg</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        UNDERkg
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 19만회</span>
+<span class=""style-scope ytd-video-meta-block"">7개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/user/UNDERkgSHOW"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/UNDERkgSHOW"" spellcheck=""false"">UNDERkg</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        UNDERkg
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">풀버전 리뷰는 http://bit.ly/2m4RmF6 - 전반적으로, 딱 그 가격 정도를 하는 물건이에요. 사용성이나 운동 관련 기능은 갤럭시 핏 같은 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" id=""badges""><!--css-build:shady-->
+<div class=""badge badge-style-type-simple style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer"" disable-upgrade="""" hidden="""">
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer"">4K</span>
+</div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=CIPkej9kDp4"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""10분 50초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      10:50
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""미밴드4 후기 // 운동을 안 해도 사야하는 이유 게시자: 쓰리뷰 3Review 10개월 전 10분 50초 조회수 182,432회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=CIPkej9kDp4"" id=""video-title"" title=""미밴드4 후기 // 운동을 안 해도 사야하는 이유"">
+<yt-formatted-string aria-label=""미밴드4 후기 // 운동을 안 해도 사야하는 이유 게시자: 쓰리뷰 3Review 10개월 전 10분 50초 조회수 182,432회"" class=""style-scope ytd-video-renderer"">미밴드4 후기 // 운동을 안 해도 사야하는 이유</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCtUP-B7EfyItk0kJu_RXgfg"" spellcheck=""false"">쓰리뷰 3Review</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        쓰리뷰 3Review
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 18만회</span>
+<span class=""style-scope ytd-video-meta-block"">10개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCtUP-B7EfyItk0kJu_RXgfg"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCtUP-B7EfyItk0kJu_RXgfg"" spellcheck=""false"">쓰리뷰 3Review</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        쓰리뷰 3Review
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text""><span class=""style-scope yt-formatted-string"" dir=""auto"">이 미</span><span class=""bold style-scope yt-formatted-string"" dir=""auto"">밴드</span><span class=""style-scope yt-formatted-string"" dir=""auto"">4 후기 영상 (글로벌 버전) 갤럭시핏과 갤럭시핏e가 출시되고 바로 미</span><span class=""bold style-scope yt-formatted-string"" dir=""auto"">밴드</span><span class=""style-scope yt-formatted-string"" dir=""auto"">4가 출시되었네요. 가격 생각하면 미</span><span class=""bold style-scope yt-formatted-string"" dir=""auto"">밴드</span><span class=""style-scope yt-formatted-string"" dir=""auto"">4가...</span></yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=WmG65McOkRA"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""9분 17초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      9:17
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""[가전남] 갤럭시핏&amp;갤럭시핏e 선택 가이드! 운동 좋아하면 꼭 보세요 게시자: 전자랜드TV 10개월 전 9분 17초 조회수 103,522회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=WmG65McOkRA"" id=""video-title"" title=""[가전남] 갤럭시핏&amp;갤럭시핏e 선택 가이드! 운동 좋아하면 꼭 보세요"">
+<yt-formatted-string aria-label=""[가전남] 갤럭시핏&amp;갤럭시핏e 선택 가이드! 운동 좋아하면 꼭 보세요 게시자: 전자랜드TV 10개월 전 9분 17초 조회수 103,522회"" class=""style-scope ytd-video-renderer"">[가전남] 갤럭시핏&amp;갤럭시핏e 선택 가이드! 운동 좋아하면 꼭 보세요</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCiMerPMWPM0ezywHh9F4KAg"" spellcheck=""false"">전자랜드TV</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        전자랜드TV
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 10만회</span>
+<span class=""style-scope ytd-video-meta-block"">10개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCiMerPMWPM0ezywHh9F4KAg"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCiMerPMWPM0ezywHh9F4KAg"" spellcheck=""false"">전자랜드TV</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        전자랜드TV
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">운동 좋아하시는 분들은 요새 고민이 많으실 것 같은데요! 바로 이 갤럭시핏, 갤럭시핏e 때문이죠 비슷한 듯~ 다른? 다른 듯~ 같은?</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=4ikeMDcsEIA"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""15분 23초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      15:23
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""샤오미 미밴드4 한글패치 쉽게 따라하기! 게시자: 아담스아답터 8개월 전 15분 조회수 84,427회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=4ikeMDcsEIA"" id=""video-title"" title=""샤오미 미밴드4 한글패치 쉽게 따라하기!"">
+<yt-formatted-string aria-label=""샤오미 미밴드4 한글패치 쉽게 따라하기! 게시자: 아담스아답터 8개월 전 15분 조회수 84,427회"" class=""style-scope ytd-video-renderer"">샤오미 미밴드4 한글패치 쉽게 따라하기!</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCly_EQkp4cwXRkAZI8pN67g"" spellcheck=""false"">아담스아답터</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        아담스아답터
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 8.4만회</span>
+<span class=""style-scope ytd-video-meta-block"">8개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCly_EQkp4cwXRkAZI8pN67g"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCly_EQkp4cwXRkAZI8pN67g"" spellcheck=""false"">아담스아답터</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        아담스아답터
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">샤오미 미밴드4 한글패치 방법입니다!
+한글패치파일 링크 : https://drive.google.com/file/d/11cgR-DlJpuq9kZgBL1Vg0E1av7n8LcoF/view ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=FSmvRrvxQMs"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""5분 45초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      5:45
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""한번에 보세요~ I 갤럭시 핏  vs 샤오미 미밴드4 한달 사용 후 장단점 비교 게시자: 파란만장 6개월 전 5분 45초 조회수 68,231회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=FSmvRrvxQMs"" id=""video-title"" title=""한번에 보세요~ I 갤럭시 핏  vs 샤오미 미밴드4 한달 사용 후 장단점 비교"">
+<yt-formatted-string aria-label=""한번에 보세요~ I 갤럭시 핏  vs 샤오미 미밴드4 한달 사용 후 장단점 비교 게시자: 파란만장 6개월 전 5분 45초 조회수 68,231회"" class=""style-scope ytd-video-renderer"">한번에 보세요~ I 갤럭시 핏  vs 샤오미 미밴드4 한달 사용 후 장단점 비교</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCXTd_NJldy8tkixXPlXbEfw"" spellcheck=""false"">파란만장</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        파란만장
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 6.8만회</span>
+<span class=""style-scope ytd-video-meta-block"">6개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCXTd_NJldy8tkixXPlXbEfw"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCXTd_NJldy8tkixXPlXbEfw"" spellcheck=""false"">파란만장</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        파란만장
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">삼성 갤럭시 핏 그리고 샤오미 미밴드4 스마트 밴드 
+한달 동안 비교 사용 후기를 통해서 각 제품에 장단점 공개합니다.
+
+
+1. Info
+제 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" id=""badges""><!--css-build:shady-->
+<div class=""badge badge-style-type-simple style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer"" disable-upgrade="""" hidden="""">
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer"">4K</span>
+</div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=ddBWaDS1LuU"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""6분 24초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      6:24
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""사진보다 예쁨;;; 핏빗 차지 3 개봉기 [4K] 게시자: UNDERkg 9개월 전 6분 24초 조회수 66,599회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=ddBWaDS1LuU"" id=""video-title"" title=""사진보다 예쁨;;; 핏빗 차지 3 개봉기 [4K]"">
+<yt-formatted-string aria-label=""사진보다 예쁨;;; 핏빗 차지 3 개봉기 [4K] 게시자: UNDERkg 9개월 전 6분 24초 조회수 66,599회"" class=""style-scope ytd-video-renderer"">사진보다 예쁨;;; 핏빗 차지 3 개봉기 [4K]</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/UNDERkgSHOW"" spellcheck=""false"">UNDERkg</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        UNDERkg
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 6.6만회</span>
+<span class=""style-scope ytd-video-meta-block"">9개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/user/UNDERkgSHOW"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/UNDERkgSHOW"" spellcheck=""false"">UNDERkg</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        UNDERkg
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name""><!--css-build:shady-->
+<div class=""badge badge-style-type-verified style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" clip-rule=""evenodd"" d=""M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10 S17.52,2,12,2z M9.92,17.93l-4.95-4.95l2.05-2.05l2.9,2.9l7.35-7.35l2.05,2.05L9.92,17.93z"" fill-rule=""evenodd""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer""></span>
+<paper-tooltip class=""style-scope ytd-badge-supported-renderer"" position=""top"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      인증됨
+    </div>
+</paper-tooltip></div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">사실... 수영 측정 되는줄 알고 샀어요... 근데 수영 해도 되는 방수 등급이라는 것 뿐이고 실제 측정은 시간이랑 거리밖에 안 되더라구요.</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" id=""badges""><!--css-build:shady-->
+<div class=""badge badge-style-type-simple style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer"" disable-upgrade="""" hidden="""">
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer"">4K</span>
+</div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=3RTZ_bQqEr0"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""6분 24초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      6:24
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""삼성 잡겠다고? 3만원, 샤오미 미밴드4 한국판 카카오톡도 되다니... - XIAOMI Miband4 게시자: 리더유 8개월 전 6분 24초 조회수 57,663회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=3RTZ_bQqEr0"" id=""video-title"" title=""삼성 잡겠다고? 3만원, 샤오미 미밴드4 한국판 카카오톡도 되다니... - XIAOMI Miband4"">
+<yt-formatted-string aria-label=""삼성 잡겠다고? 3만원, 샤오미 미밴드4 한국판 카카오톡도 되다니... - XIAOMI Miband4 게시자: 리더유 8개월 전 6분 24초 조회수 57,663회"" class=""style-scope ytd-video-renderer"">삼성 잡겠다고? 3만원, 샤오미 미밴드4 한국판 카카오톡도 되다니... - XIAOMI Miband4</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/leaderyou1"" spellcheck=""false"">리더유</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        리더유
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 5.7만회</span>
+<span class=""style-scope ytd-video-meta-block"">8개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/user/leaderyou1"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/leaderyou1"" spellcheck=""false"">리더유</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        리더유
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text""><span class=""style-scope yt-formatted-string"" dir=""auto"">샤오미 미</span><span class=""bold style-scope yt-formatted-string"" dir=""auto"">밴드</span><span class=""style-scope yt-formatted-string"" dir=""auto"">4가 한국 정식 발매 되었습니다. 31900원이라는 놀라운 가격으로 출시되어 삼성을 기가 막히게 만들었습니다.</span></yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=ktYr7FCz2wA"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""13분 55초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      13:55
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""미밴드4 / 어메이즈핏 GTR / VERGE / BIP 까지 한방에 정리해드립니다! 게시자: Producer dk 2개월 전 13분 55초 조회수 50,773회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=ktYr7FCz2wA"" id=""video-title"" title=""미밴드4 / 어메이즈핏 GTR / VERGE / BIP 까지 한방에 정리해드립니다!"">
+<yt-formatted-string aria-label=""미밴드4 / 어메이즈핏 GTR / VERGE / BIP 까지 한방에 정리해드립니다! 게시자: Producer dk 2개월 전 13분 55초 조회수 50,773회"" class=""style-scope ytd-video-renderer"">미밴드4 / 어메이즈핏 GTR / VERGE / BIP 까지 한방에 정리해드립니다!</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCk3bmbMO_M8qrpCFHTU__AA"" spellcheck=""false"">Producer dk</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        Producer dk
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 5만회</span>
+<span class=""style-scope ytd-video-meta-block"">2개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCk3bmbMO_M8qrpCFHTU__AA"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCk3bmbMO_M8qrpCFHTU__AA"" spellcheck=""false"">Producer dk</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        Producer dk
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden=""""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">미밴드4: https://qoo.tn/Ah0yNR/Q111301139
+GTR: https://qoo.tn/As0yNR/Q111301139
+VERGE: https://qoo.tn/Aw0yNR/Q111301139
+BIP ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=_Sc_vz9Fs3M"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""11분 36초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      11:36
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""품절대란! 샤오미 미밴드4 한국정발판 VS 해외직구판(한글화패치) 전격 비교! - 여러분의 선택은? 게시자: 영태형 8개월 전 11분 36초 조회수 47,374회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=_Sc_vz9Fs3M"" id=""video-title"" title=""품절대란! 샤오미 미밴드4 한국정발판 VS 해외직구판(한글화패치) 전격 비교! - 여러분의 선택은?"">
+<yt-formatted-string aria-label=""품절대란! 샤오미 미밴드4 한국정발판 VS 해외직구판(한글화패치) 전격 비교! - 여러분의 선택은? 게시자: 영태형 8개월 전 11분 36초 조회수 47,374회"" class=""style-scope ytd-video-renderer"">품절대란! 샤오미 미밴드4 한국정발판 VS 해외직구판(한글화패치) 전격 비교! - 여러분의 선택은?</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCYssCFCkEIsO59Na-jKNIEQ"" spellcheck=""false"">영태형</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        영태형
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 4.7만회</span>
+<span class=""style-scope ytd-video-meta-block"">8개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCYssCFCkEIsO59Na-jKNIEQ"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCYssCFCkEIsO59Na-jKNIEQ"" spellcheck=""false"">영태형</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        영태형
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">현존 최강의 스마트밴드, 샤오미 미밴드4
+인기의 비결, 그리고 한국 정발판 VS 해외직구판 한글화 1:1 비교!
+
+#샤오미 #미밴드4 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=3vz-5GFxo1U"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""6분 1초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      6:01
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""가격 &amp; 성능에 놀라는 가성비 스마트밴드 샤오미 미밴드4 이런 기능까지? 리얼 한달 사용기 게시자: 파란만장 6개월 전 6분 1초 조회수 46,944회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=3vz-5GFxo1U"" id=""video-title"" title=""가격 &amp; 성능에 놀라는 가성비 스마트밴드 샤오미 미밴드4 이런 기능까지? 리얼 한달 사용기"">
+<yt-formatted-string aria-label=""가격 &amp; 성능에 놀라는 가성비 스마트밴드 샤오미 미밴드4 이런 기능까지? 리얼 한달 사용기 게시자: 파란만장 6개월 전 6분 1초 조회수 46,944회"" class=""style-scope ytd-video-renderer"">가격 &amp; 성능에 놀라는 가성비 스마트밴드 샤오미 미밴드4 이런 기능까지? 리얼 한달 사용기</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCXTd_NJldy8tkixXPlXbEfw"" spellcheck=""false"">파란만장</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        파란만장
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 4.6만회</span>
+<span class=""style-scope ytd-video-meta-block"">6개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCXTd_NJldy8tkixXPlXbEfw"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCXTd_NJldy8tkixXPlXbEfw"" spellcheck=""false"">파란만장</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        파란만장
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">3만원대 가성비 스마트밴드 샤오미 미밴드4 정식 한글 버전
+샤미오 스마트밴드 미밴드4 지금이라도 구매해야 하는
+다섯가지 이유와 함 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" id=""badges""><!--css-build:shady-->
+<div class=""badge badge-style-type-simple style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer"" disable-upgrade="""" hidden="""">
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer"">4K</span>
+</div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=7eZ6Sr-wLv8"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""12분 53초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      12:53
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""갤럭시 Fit 만져보니 이제야 알 것 같네 미밴드4 사기전에 꼭 보여야합니다. 게시자: 충스 10개월 전 12분 53초 조회수 46,029회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=7eZ6Sr-wLv8"" id=""video-title"" title=""갤럭시 Fit 만져보니 이제야 알 것 같네 미밴드4 사기전에 꼭 보여야합니다."">
+<yt-formatted-string aria-label=""갤럭시 Fit 만져보니 이제야 알 것 같네 미밴드4 사기전에 꼭 보여야합니다. 게시자: 충스 10개월 전 12분 53초 조회수 46,029회"" class=""style-scope ytd-video-renderer"">갤럭시 Fit 만져보니 이제야 알 것 같네 미밴드4 사기전에 꼭 보여야합니다.</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/Dollkid"" spellcheck=""false"">충스</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        충스
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 4.6만회</span>
+<span class=""style-scope ytd-video-meta-block"">10개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/user/Dollkid"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/Dollkid"" spellcheck=""false"">충스</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        충스
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text""><span class=""style-scope yt-formatted-string bold"" dir=""auto"">스마트</span><span class=""style-scope yt-formatted-string"" dir=""auto""> 웨어러블 3종의 마지막이 드디어 배송이 와서 먼저 까봤습니다(개봉) 그런데 하필 이때 미</span><span class=""style-scope yt-formatted-string bold"" dir=""auto"">밴드</span><span class=""style-scope yt-formatted-string"" dir=""auto"">4도 왔네요~ 담편에 미</span><span class=""bold style-scope yt-formatted-string"" dir=""auto"">밴드</span><span class=""style-scope yt-formatted-string"" dir=""auto"">4를 ...</span></yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges"">
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=p84MkKVXP2I"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""10분 48초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      10:48
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""드디어 미밴드4 한글 패치 | 한글화 적용 방법 및 설정 팁 게시자: 스멀샵 8개월 전 10분 48초 조회수 42,731회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=p84MkKVXP2I"" id=""video-title"" title=""드디어 미밴드4 한글 패치 | 한글화 적용 방법 및 설정 팁"">
+<yt-formatted-string aria-label=""드디어 미밴드4 한글 패치 | 한글화 적용 방법 및 설정 팁 게시자: 스멀샵 8개월 전 10분 48초 조회수 42,731회"" class=""style-scope ytd-video-renderer"">드디어 미밴드4 한글 패치 | 한글화 적용 방법 및 설정 팁</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCvFZv-55_8ySBFg3itOZ0lw"" spellcheck=""false"">스멀샵</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        스멀샵
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 4.2만회</span>
+<span class=""style-scope ytd-video-meta-block"">8개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCvFZv-55_8ySBFg3itOZ0lw"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCvFZv-55_8ySBFg3itOZ0lw"" spellcheck=""false"">스멀샵</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        스멀샵
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">뭐 좋아 봤자 얼마나 좋겠어? 하고 구매했던 미밴드 4 중국 내수용 리뷰입니다. 
+영상 업로드 예약 걸어놨는데 비공식 한글 패치가 나 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges""><!--css-build:shady-->
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=qTcVvon0KYQ"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""8분 1초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      8:01
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""미밴드4 한글정발 및 한글화패치가능 나이키페이스까지하고나니 좋아도 너무좋잖아 가성비 끝판왕 스마트밴드  지르자 게시자: reviewnik 리뷰닉 8개월 전 8분 1초 조회수 41,933회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=qTcVvon0KYQ"" id=""video-title"" title=""미밴드4 한글정발 및 한글화패치가능 나이키페이스까지하고나니 좋아도 너무좋잖아 가성비 끝판왕 스마트밴드  지르자"">
+<yt-formatted-string aria-label=""미밴드4 한글정발 및 한글화패치가능 나이키페이스까지하고나니 좋아도 너무좋잖아 가성비 끝판왕 스마트밴드  지르자 게시자: reviewnik 리뷰닉 8개월 전 8분 1초 조회수 41,933회"" class=""style-scope ytd-video-renderer"">미밴드4 한글정발 및 한글화패치가능 나이키페이스까지하고나니 좋아도 너무좋잖아 가성비 끝판왕 스마트밴드  지르자</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCi9dzt39TA4Pka9vbbOG4Xw"" spellcheck=""false"">reviewnik 리뷰닉</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        reviewnik 리뷰닉
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 4.1만회</span>
+<span class=""style-scope ytd-video-meta-block"">8개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCi9dzt39TA4Pka9vbbOG4Xw"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCi9dzt39TA4Pka9vbbOG4Xw"" spellcheck=""false"">reviewnik 리뷰닉</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        reviewnik 리뷰닉
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">#미밴드4 #미밴드4한글 #미밴드4페이스 #미밴드4국내정발
+
+쿠팡 국내 정발 한글판 구매링크 https://coupa.ng/bjfs8t
+중국내수정보 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges"">
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=vMNMfn2XtQs"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""10분 6초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      10:06
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""[본격 수영 리뷰] 샤오미 미밴드4 vs 화웨이 아너밴드4 vs 삼성 갤럭시핏 비교 게시자: 슈퍼대디 윤 10개월 전 10분 6초 조회수 41,460회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=vMNMfn2XtQs"" id=""video-title"" title=""[본격 수영 리뷰] 샤오미 미밴드4 vs 화웨이 아너밴드4 vs 삼성 갤럭시핏 비교"">
+<yt-formatted-string aria-label=""[본격 수영 리뷰] 샤오미 미밴드4 vs 화웨이 아너밴드4 vs 삼성 갤럭시핏 비교 게시자: 슈퍼대디 윤 10개월 전 10분 6초 조회수 41,460회"" class=""style-scope ytd-video-renderer"">[본격 수영 리뷰] 샤오미 미밴드4 vs 화웨이 아너밴드4 vs 삼성 갤럭시핏 비교</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCStxxNnQtSbE5bEfu5SD_wA"" spellcheck=""false"">슈퍼대디 윤</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        슈퍼대디 윤
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 4.1만회</span>
+<span class=""style-scope ytd-video-meta-block"">10개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCStxxNnQtSbE5bEfu5SD_wA"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCStxxNnQtSbE5bEfu5SD_wA"" spellcheck=""false"">슈퍼대디 윤</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        슈퍼대디 윤
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">안녕하세요, 슈퍼대디윤입니다.
+정말 많은 분들께서 요청해주셨던 수영 리뷰에요.
+너무 늦게 올려드려서 죄송합니다^^;;
+제가 살고 있 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" id=""badges""><!--css-build:shady-->
+<div class=""badge badge-style-type-simple style-scope ytd-badge-supported-renderer"">
+<yt-icon class=""style-scope ytd-badge-supported-renderer"" disable-upgrade="""" hidden="""">
+</yt-icon>
+<span class=""style-scope ytd-badge-supported-renderer"">자막</span>
+</div>
+<dom-repeat as=""badge"" class=""style-scope ytd-badge-supported-renderer"" id=""repeat""><template is=""dom-repeat""></template></dom-repeat>
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=GQ6QHF5_Epk"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""5분 28초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      5:28
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""샤오미 미밴드4 한글 정발 리뷰! 음악 컨트롤과 전화, 문자 알림 기능은? 게시자: 땡기는 리뷰! 영댕이TV 7개월 전 5분 28초 조회수 41,310회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=GQ6QHF5_Epk"" id=""video-title"" title=""샤오미 미밴드4 한글 정발 리뷰! 음악 컨트롤과 전화, 문자 알림 기능은?"">
+<yt-formatted-string aria-label=""샤오미 미밴드4 한글 정발 리뷰! 음악 컨트롤과 전화, 문자 알림 기능은? 게시자: 땡기는 리뷰! 영댕이TV 7개월 전 5분 28초 조회수 41,310회"" class=""style-scope ytd-video-renderer"">샤오미 미밴드4 한글 정발 리뷰! 음악 컨트롤과 전화, 문자 알림 기능은?</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/youngdaehan"" spellcheck=""false"">땡기는 리뷰! 영댕이TV</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        땡기는 리뷰! 영댕이TV
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 4.1만회</span>
+<span class=""style-scope ytd-video-meta-block"">7개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/user/youngdaehan"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/user/youngdaehan"" spellcheck=""false"">땡기는 리뷰! 영댕이TV</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        땡기는 리뷰! 영댕이TV
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text"">샤오미 미밴드4 한글 정발 리뷰! 음악 제어와 전화, 문자 알림 기능은?
+
+자세한 사진리뷰 : http://funfunhan.com
+
+모델명 : 샤오미 미 ...</yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges"">
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
+css-build:shady,"
+","<div class=""style-scope ytd-video-renderer"" id=""dismissable"">
+<ytd-thumbnail class=""style-scope ytd-video-renderer"" use-hovered-property=""""><!--css-build:shady-->
+<a aria-hidden=""true"" class=""yt-simple-endpoint inline-block style-scope ytd-thumbnail"" href=""/watch?v=16xzvozksVY"" id=""thumbnail"" rel=""null"" tabindex=""-1"">
+<yt-img-shadow class=""style-scope ytd-thumbnail no-transition empty"" style=""background-color: transparent;""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""246""/></yt-img-shadow>
+<div class=""style-scope ytd-thumbnail"" id=""overlays""><ytd-thumbnail-overlay-time-status-renderer class=""style-scope ytd-thumbnail"" overlay-style=""DEFAULT""><!--css-build:shady--><yt-icon class=""style-scope ytd-thumbnail-overlay-time-status-renderer"" disable-upgrade="""" hidden=""""></yt-icon><span aria-label=""4분 10초"" class=""style-scope ytd-thumbnail-overlay-time-status-renderer"">
+      4:10
+    </span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class=""style-scope ytd-thumbnail""><!--css-build:shady-->
+<span class=""style-scope ytd-thumbnail-overlay-now-playing-renderer"">지금 재생 중</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+<div class=""style-scope ytd-thumbnail"" id=""mouseover-overlay""></div>
+<div class=""style-scope ytd-thumbnail"" id=""hover-overlays""></div>
+</a>
+</ytd-thumbnail>
+<div class=""text-wrapper style-scope ytd-video-renderer"">
+<div class=""style-scope ytd-video-renderer"" id=""meta"">
+<div class=""style-scope ytd-video-renderer"" id=""title-wrapper"">
+<h3 class=""title-and-badge style-scope ytd-video-renderer"">
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+<a aria-label=""샤오미 미밴드4 한글 폰트 변경 방법! 가독성 좋은 폰트로 바꾸기 게시자: Gear Hola! 기어올라! 8개월 전 4분 10초 조회수 40,388회"" class=""yt-simple-endpoint style-scope ytd-video-renderer"" href=""/watch?v=16xzvozksVY"" id=""video-title"" title=""샤오미 미밴드4 한글 폰트 변경 방법! 가독성 좋은 폰트로 바꾸기"">
+<yt-formatted-string aria-label=""샤오미 미밴드4 한글 폰트 변경 방법! 가독성 좋은 폰트로 바꾸기 게시자: Gear Hola! 기어올라! 8개월 전 4분 10초 조회수 40,388회"" class=""style-scope ytd-video-renderer"">샤오미 미밴드4 한글 폰트 변경 방법! 가독성 좋은 폰트로 바꾸기</yt-formatted-string>
+</a>
+</h3>
+<div class=""style-scope ytd-video-renderer"" id=""menu""><ytd-menu-renderer class=""style-scope ytd-video-renderer""><!--css-build:shady-->
+<div class=""style-scope ytd-menu-renderer"" id=""top-level-buttons""></div>
+<yt-icon-button class=""dropdown-trigger style-scope ytd-menu-renderer"" id=""button""><!--css-build:shady--><button aria-label=""작업 메뉴"" class=""style-scope yt-icon-button"" id=""button"">
+<yt-icon class=""style-scope ytd-menu-renderer""><svg class=""style-scope yt-icon"" focusable=""false"" preserveaspectratio=""xMidYMid meet"" style=""pointer-events: none; display: block; width: 100%; height: 100%;"" viewbox=""0 0 24 24""><g class=""style-scope yt-icon"">
+<path class=""style-scope yt-icon"" d=""M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z""></path>
+</g></svg><!--css-build:shady-->
+</yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div>
+</div>
+<ytd-video-meta-block class=""style-scope ytd-video-renderer byline-separated""><!--css-build:shady-->
+<div class=""style-scope ytd-video-meta-block"" id=""metadata"">
+<div class=""style-scope ytd-video-meta-block"" id=""byline-container"">
+<ytd-channel-name class=""style-scope ytd-video-meta-block"" id=""channel-name""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name complex-string"" ellipsis-truncate="""" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCkVpa2ltvLlpaTkQuppd2IA"" spellcheck=""false"">Gear Hola! 기어올라!</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        Gear Hola! 기어올라!
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+<div class=""style-scope ytd-video-meta-block"" id=""separator"">•</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""metadata-line"">
+<span class=""style-scope ytd-video-meta-block"">조회수 4만회</span>
+<span class=""style-scope ytd-video-meta-block"">8개월 전</span>
+<dom-repeat class=""style-scope ytd-video-meta-block"" strip-whitespace=""""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</div>
+<div class=""style-scope ytd-video-meta-block"" id=""additional-metadata-line"">
+<dom-repeat class=""style-scope ytd-video-meta-block""><template is=""dom-repeat""></template></dom-repeat>
+</div>
+</ytd-video-meta-block>
+</div>
+<div class=""style-scope ytd-video-renderer"" hidden="""" id=""channel-info"">
+<a aria-label=""채널로 이동"" class=""style-scope ytd-video-renderer"" href=""/channel/UCkVpa2ltvLlpaTkQuppd2IA"">
+<yt-img-shadow class=""style-scope ytd-video-renderer no-transition empty"" style=""background-color: transparent;"" width=""24""><!--css-build:shady--><img alt="""" class=""style-scope yt-img-shadow"" id=""img"" width=""24""/></yt-img-shadow>
+</a>
+<ytd-channel-name class=""long-byline style-scope ytd-video-renderer"" id=""channel-name"" wrap-text=""true""><!--css-build:shady-->
+<div class=""style-scope ytd-channel-name"" id=""container"">
+<div class=""style-scope ytd-channel-name"" id=""text-container"">
+<yt-formatted-string class=""style-scope ytd-channel-name"" has-link-only_="""" id=""text"" title=""""><a class=""yt-simple-endpoint style-scope yt-formatted-string"" dir=""auto"" href=""/channel/UCkVpa2ltvLlpaTkQuppd2IA"" spellcheck=""false"">Gear Hola! 기어올라!</a></yt-formatted-string>
+</div>
+<paper-tooltip class=""style-scope ytd-channel-name"" fit-to-visible-bounds="""" offset=""10"" role=""tooltip"" tabindex=""-1""><!--css-build:shady-->
+<div class=""hidden style-scope paper-tooltip"" id=""tooltip"">
+      
+        Gear Hola! 기어올라!
+      
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class=""style-scope ytd-channel-name"" disable-upgrade="""" hidden="""">
+</ytd-badge-supported-renderer>
+</ytd-channel-name>
+</div>
+<yt-formatted-string class=""style-scope ytd-video-renderer"" id=""description-text""><span class=""style-scope yt-formatted-string"" dir=""auto"">미</span><span class=""bold style-scope yt-formatted-string"" dir=""auto"">밴드</span><span class=""style-scope yt-formatted-string"" dir=""auto"">4 #폰트변경 #한국정발 기존의 미</span><span class=""bold style-scope yt-formatted-string"" dir=""auto"">밴드</span><span class=""style-scope yt-formatted-string"" dir=""auto"">4 한글폰트가 너무 가독성이 떨어져서 어떤 능력자분이 패치를 해주신 내용을 적용을 ...</span></yt-formatted-string>
+<ytd-badge-supported-renderer class=""style-scope ytd-video-renderer"" disable-upgrade="""" hidden="""" id=""badges"">
+</ytd-badge-supported-renderer>
+<div class=""style-scope ytd-video-renderer"" id=""buttons""></div>
+</div>
+</div>","
+","<div class=""style-scope ytd-video-renderer"" id=""dismissed""></div>","
+"
